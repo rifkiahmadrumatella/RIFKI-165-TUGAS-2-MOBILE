@@ -1,0 +1,15 @@
+part of 'app_pages.dart';
+
+abstract class Routes {
+  Routes._();
+  static const LOGIN = _Paths.LOGIN;
+  static const SIGNUP = _Paths.SIGNUP;
+  static const PROFILE = _Paths.PROFILE;
+}
+
+abstract class _Paths {
+  _Paths._();
+  static const LOGIN = '/login';
+  static const SIGNUP = '/signup';
+  static const PROFILE = '/profile';
+}
