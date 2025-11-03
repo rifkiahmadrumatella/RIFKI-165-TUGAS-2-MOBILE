@@ -1,8 +1,8 @@
 #  Assignment 2
 
-* **Nama:** Ahmad Nizar Rusdiawan  
-* **NIM:** 202310370311186  
-* **Kelas:** Pemrograman Mobile C
+* **Nama:** Rifki ahmad rumatella
+* **NIM:** 2023103703111165  
+* **Kelas:** Pemrograman Mobile B
 
 ## 🧱 Struktur Folder
 
